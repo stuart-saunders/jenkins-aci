@@ -1,2 +1,2 @@
 # jenkins-aci
-Deploys Jenkins on Azure Container Instancers
+Deploys Jenkins on Azure Container Instances
